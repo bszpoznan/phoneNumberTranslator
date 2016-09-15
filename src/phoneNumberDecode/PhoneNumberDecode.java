@@ -1,13 +1,11 @@
+//added line test
 package phoneNumberDecode;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- *
- * @author dom
- */
+
 public class PhoneNumberDecode {
 
     /**
